@@ -1,0 +1,41 @@
+{
+  "name": "Desi Bazar",
+  "short_name": "Desi Bazar",
+  "description": "Desi Bazar - All India Wholesale Market. Buy & Sell Makhana, Aam, Lichi, Machli, Chai, Kali Mirch and more at wholesale rates. Min order 10kg.",
+  "start_url": "/Desi-Bazar/index.html",
+  "scope": "/Desi-Bazar/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#FF6B00",
+  "lang": "hi-IN",
+  "dir": "ltr",
+  "categories": ["shopping", "business", "food"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+
