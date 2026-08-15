@@ -4,6 +4,7 @@
   "description": "Desi Bazar - All India Wholesale Market. Buy & Sell Makhana, Aam, Lichi, Machli, Chai, Kali Mirch and more at wholesale rates. Min order 10kg.",
   "start_url": "/Desi-Bazar/index.html",
   "scope": "/Desi-Bazar/",
+  "id": "/Desi-Bazar/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0a0a",
@@ -12,16 +13,16 @@
   "dir": "ltr",
   "categories": ["shopping", "business", "food"],
   "icons": [
-    { "src": "icon-48.png", "sizes": "48x48", "type": "image/png", "purpose": "any" },
-    { "src": "icon-72.png", "sizes": "72x72", "type": "image/png", "purpose": "any" },
-    { "src": "icon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
-    { "src": "icon-128.png", "sizes": "128x128", "type": "image/png", "purpose": "any" },
-    { "src": "icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
-    { "src": "icon-152.png", "sizes": "152x152", "type": "image/png", "purpose": "any" },
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-384.png", "sizes": "384x384", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
-    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "/Desi-Bazar/icon-48.png", "sizes": "48x48", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-72.png", "sizes": "72x72", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-128.png", "sizes": "128x128", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-152.png", "sizes": "152x152", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-384.png", "sizes": "384x384", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/Desi-Bazar/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/Desi-Bazar/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
